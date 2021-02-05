@@ -1,7 +1,20 @@
-What did you do in the last 24 hours that helped the Development team meet the Sprint goal?
-
 February 05, 2021
-  Christy Neal:
-  Gopi Macha:
-  Leul Endashaw:
-  Phuong Nguyen: Attended to the team meeting. Documented what we have discussed and commit the files into the main branch.
+  * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
+      Christy Neal:
+      Gopi Macha:
+      Leul Endashaw:
+      Phuong Nguyen: Attended to the team meeting. Documented what we have discussed and commit the files into the main branch.
+      
+  * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
+      Christy Neal:
+      Gopi Macha:
+      Leul Endashaw:
+      Phuong Nguyen: Continue working on the required documents for Sprint 1.
+      
+  * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
+    What are the impediments?
+    What is your impediment removal plan?
+      Christy Neal:
+      Gopi Macha:
+      Leul Endashaw:
+      Phuong Nguyen: Yes. There is still a lack of understanding among team members reagrding how to build the system. Removal plan: Having a F2F meeting on Wednesday to make it                        clear.
