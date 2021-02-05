@@ -1,13 +1,13 @@
 February 05, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
       Christy Neal:
-      Gopi Macha:
+      Gopi Macha:created a new github account and repo
       Leul Endashaw:
       Phuong Nguyen: Attended to the team meeting. Documented what we have discussed and commit the files into the main branch.
       
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Christy Neal:
-      Gopi Macha:
+      Gopi Macha:creating a new git repo and updating the react code into it
       Leul Endashaw:
       Phuong Nguyen: Continue working on the required documents for Sprint 1.
       
@@ -15,6 +15,6 @@ February 05, 2021
     What are the impediments?
     What is your impediment removal plan?
       Christy Neal:
-      Gopi Macha:
+      Gopi Macha:Don't know which open source apis want to use in application.Removal plan:face-to-face meeting in class with professor.
       Leul Endashaw:
       Phuong Nguyen: Yes. There is still a lack of understanding among team members reagrding the project requirements and how to build the system. Removal plan: Having an extra F2F meeting on Wednesday to make it clear.
