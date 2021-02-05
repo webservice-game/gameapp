@@ -1,0 +1,7 @@
+What did you do in the last 24 hours that helped the Development team meet the Sprint goal?
+
+February 05, 2021
+  Christy Neal:
+  Gopi Macha:
+  Leul Endashaw:
+  Phuong Nguyen: Attended to the team meeting. Documented what we have discussed and commit the files into the main branch.
