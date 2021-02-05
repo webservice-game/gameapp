@@ -61,5 +61,4 @@ Notes (important–make sure to read carefully):
   2. All submissions are at a team-based level. This means only the Scrum Master from each group will submit the deliverables on the behalf of her/his team.
   3. You should communicate with your teammates early and begin working on the project. Make sure you break up the project so that each member of the team has a responsibility.
   4. The project is graded at the team level. This means that each team member usually receives the same grade for each such element. However, if a student does not perform at 
-      the team level for a given element, that student should NOT expect the same grade as the other team members. This includes both students who choose not to participate to an 
-      appropriate degree and those who choose to be “team hero”.
+      the team level for a given element, that student should NOT expect the same grade as the other team members. This includes both students who choose not to participate to         an appropriate degree and those who choose to be “team hero”.
