@@ -1,1 +1,1 @@
-This foder stores all the Burndown Chart for all the Sprint.
+This folder stores all the Burndown Chart for all the Sprint.
