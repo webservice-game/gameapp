@@ -23,32 +23,32 @@ Feb 12, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal:
     Gopi Macha:
-    Leul Endashaw:
+    Leul Endashaw: Discuss on UI design, app's name & logo.
     Phuong Nguyen: Discuss on UI design, app's name & logo. Start working on 'About' page.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
     Christy Neal:
     Gopi Macha:
-    Leul Endashaw:
+    Leul Endashaw: Started working on app name and logo
     Phuong Nguyen: Continue working on 'About' page. Will try to create a template for common components, such as: 'Page Title', 'Footer', etc, for re-use purpose.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
     Christy Neal:
     Gopi Macha:
-    Leul Endashaw:
+    Leul Endashaw: 
     Phuong Nguyen: The team (especially Gopi) is still looking for open-source APIs to fetch the data. Other than that, I think we are on the right track.
     
 Feb 20, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal:
     Gopi Macha:
-    Leul Endashaw:
+    Leul Endashaw: Finished creating logo and App name
     Phuong Nguyen: Completing the 'About' page: updating the app's name & logo. Updating page content, such as: 'MISSION' (from Leul), 'OUR STORY' (from Christy). Working on 'Footer'.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
     Christy Neal:
     Gopi Macha:
-    Leul Endashaw:
+    Leul Endashaw: Will work on the trello board and user stories creation
     Phuong Nguyen: Comtinue working on the 'Footer'. Looking for topic and research papers for the team research.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
