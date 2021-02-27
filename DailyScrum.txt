@@ -46,7 +46,7 @@ Feb 20, 2021
     Phuong Nguyen: Completing the 'About' page: updating the app's name & logo. Updating page content, such as: 'MISSION' (from Leul), 'OUR STORY' (from Christy). Working on 'Footer'.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-    Christy Neal: Combine the Trello boards in order to see the project tasks holistically and add user stories. 
+    Christy Neal: Combine the Trello boards in order to see the project tasks holistically and add user stories. Enzyme &  Zest for testing.
     Gopi Macha:
     Leul Endashaw: Will work on the trello board and user stories creation
     Phuong Nguyen: Comtinue working on the 'Footer'. Looking for topic and research papers for the team research.
