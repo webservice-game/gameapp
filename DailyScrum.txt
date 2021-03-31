@@ -60,26 +60,26 @@ Feb 20, 2021
 Feb 27, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Some research about table components in react
     Leul Endashaw: 
     Phuong Nguyen: Finishing up Footer. Continue searching on research papers.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Implement player Data in tabular format
     Leul Endashaw: 
     Phuong Nguyen: Working on css style for the getstarted page.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Adding dynamic ADDFIRND button for every row in table
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
     
 Mar 03, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Created the profile page when user clicks on any player name
     Leul Endashaw: 
     Phuong Nguyen: Working on css style for the getstarted page.
     
@@ -98,19 +98,19 @@ Mar 03, 2021
 Mar 10, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Implemented the Add Friend functionality.
     Leul Endashaw: 
     Phuong Nguyen: Working on profile page (data and css style). 
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Created the Friendslist button ton show AddFriend users
     Leul Endashaw: 
     Phuong Nguyen: Working on logic to some of the buttons functioning better.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:NO
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
     
@@ -119,13 +119,13 @@ Mar 15 - Mar 21: Spring Break
 Mar 24, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:come up with benefits design on home page
     Leul Endashaw: 
     Phuong Nguyen: Reposition nav-link item, adding logo to the navbar, adding Home link to the logo, making the Friend List button disappear when nothing is on the list.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
     Christy Neal: 
-    Gopi Macha:
+    Gopi Macha:Implemented the home page css with responsive
     Leul Endashaw: 
     Phuong Nguyen: Display the 'Add Friend' button in different color when selected
     
