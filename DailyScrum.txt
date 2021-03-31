@@ -59,57 +59,57 @@ Feb 20, 2021
     
 Feb 27, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: search for homepage content ideas and look for research papers
     Gopi Macha:Some research about table components in react
     Leul Endashaw: 
     Phuong Nguyen: Finishing up Footer. Continue searching on research papers.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: continue working on homepage content
     Gopi Macha:Implement player Data in tabular format
     Leul Endashaw: 
     Phuong Nguyen: Working on css style for the getstarted page.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-    Christy Neal: 
+    Christy Neal: We appear to be on track currently.
     Gopi Macha:Adding dynamic ADDFIRND button for every row in table
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
     
 Mar 03, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: discussed layout and searched for homepage content
     Gopi Macha:Created the profile page when user clicks on any player name
     Leul Endashaw: 
     Phuong Nguyen: Working on css style for the getstarted page.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: work on test cases; update trello
     Gopi Macha:
     Leul Endashaw: 
     Phuong Nguyen: Finishing up the getstarted.css. Add more data to profile page and working on its css style.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-    Christy Neal: 
+    Christy Neal: we appear to be on track.
     Gopi Macha:
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
     
 Mar 10, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: found content for home page and headers, like the contact us button
     Gopi Macha:Implemented the Add Friend functionality.
     Leul Endashaw: 
     Phuong Nguyen: Working on profile page (data and css style). 
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: write benefits content and select images
     Gopi Macha:Created the Friendslist button ton show AddFriend users
     Leul Endashaw: 
     Phuong Nguyen: Working on logic to some of the buttons functioning better.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-    Christy Neal: 
+    Christy Neal: We appear to be on track
     Gopi Macha:NO
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
@@ -118,19 +118,19 @@ Mar 15 - Mar 21: Spring Break
 
 Mar 24, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: create content for how it works; update ttrello
     Gopi Macha:come up with benefits design on home page
     Leul Endashaw: 
     Phuong Nguyen: Reposition nav-link item, adding logo to the navbar, adding Home link to the logo, making the Friend List button disappear when nothing is on the list.
     
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-    Christy Neal: 
+    Christy Neal: continue to edit how it works content and update trello; create test case with jest/enzyme; research azure testing issues
     Gopi Macha:Implemented the home page css with responsive
     Leul Endashaw: 
     Phuong Nguyen: Display the 'Add Friend' button in different color when selected
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-    Christy Neal: 
+    Christy Neal:
     Gopi Macha:
     Leul Endashaw:
     Phuong Nguyen: Everything is on the right track so far. I don't see any impediment.
