@@ -1,0 +1,8 @@
+The forecast for this sprint includes:
+* Decide on the layout style, app's name & logo: 2 points
+* Create the header, footer, navbar, some of the pages, and all the routes for the website: 10 points
+* Create TDD, CI/CD for the project: 3 points
+* Submit the sprint and brainstorm on the research project: 2 points
+
+In this stage, we deploy some basic components and pages for our web app. Create at least 10 unit tests in the test suite to make sure that the app still working 
+fine after any changes. Implement the CI/CD for the higher quality product and happier team. It gives us more visibility into the progress of the project.
