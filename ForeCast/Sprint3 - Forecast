@@ -1,0 +1,10 @@
+The forecast for this sprint includes:
+* Identify the correct API to fetch data from, populate the data nicely in tabular format inside the webpage, add buttons and implement their functionalities: 16 points
+* Revise the header and navbar: 4 points
+* Add export function to allow user getting his final friend list: 1 point
+* Add more test cases: 1 point
+* Finish adding some page's content and submit the sprint: 2 points
+
+In this stage, we will work on fetching real data from open-source API, then populate and display them nicely on the website. We also will add more functions to 
+allow users to interact with the data and be able to use the app for their purpose - making new friends for their gaming journey. Adding the export function will 
+allow users to keep their final friend list on their computer. We will also add more test cases for testing new functions purpose.
